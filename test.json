@@ -1,0 +1,54 @@
+[
+    {
+        "txt": "Vous êtes à côté du parc du creux de l'enfer !",
+        "lang": "fr",
+        "priority": 1,
+        "requiredConditions": [
+            {
+                "reference": "distanceTo(45.76591511918806, 3.115639969253909)", 
+                "comparison": "<", 
+                "parameter": "150" 
+            }    
+        ],
+        "forgettingConditions": []
+    },
+    {
+        "txt": "Vous êtes à côté du parc du creux de l'enfer !",
+        "lang": "fr",
+        "priority": 1,
+        "requiredConditions": [
+            {
+                "reference": "distanceTo(45.766211, 3.113902)", 
+                "comparison": "<", 
+                parameter": "150"
+            }
+        ],
+        "forgettingConditions": []
+    },
+    {
+        "txt": "Le parc du creux de l'enfer n'est pas à proximité de vous !",
+        "lang": "fr",
+        "priority": 1,
+        "requiredConditions": [
+            {
+                "reference": "distanceTo(45.76591511918806, 3.115639969253909)", 
+                "comparison": ">", 
+                "parameter": "150" 
+            }
+        ],
+        "forgettingConditions": []
+    },
+    {
+        "txt": "Le parc du creux de l'enfer n'est pas à proximité de vous !",
+        "lang": "fr",
+        "priority": 1,
+        "requiredConditions": [
+            {
+                "reference": "distanceTo(45.766211, 3.113902)", 
+                "comparison": ">", 
+                parameter": "150"
+            }
+        ],
+        "forgettingConditions": []
+    }
+]
