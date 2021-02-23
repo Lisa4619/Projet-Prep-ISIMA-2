@@ -7,7 +7,7 @@
             {
                 "reference": "distanceTo(45.76591511918806, 3.115639969253909)", 
                 "comparison": "<", 
-                "parameter": "150" 
+                "parameter": "500" 
             }    
         ],
         "forgettingConditions": []
@@ -20,7 +20,7 @@
             {
                 "reference": "distanceTo(45.766211, 3.113902)", 
                 "comparison": "<", 
-                "parameter": "150"
+                "parameter": "500"
             }
         ],
         "forgettingConditions": []
@@ -33,7 +33,7 @@
             {
                 "reference": "distanceTo(45.76591511918806, 3.115639969253909)", 
                 "comparison": ">", 
-                "parameter": "150" 
+                "parameter": "500" 
             }
         ],
         "forgettingConditions": []
@@ -46,7 +46,7 @@
             {
                 "reference": "distanceTo(45.766211, 3.113902)", 
                 "comparison": ">", 
-                "parameter": "150"
+                "parameter": "500"
             }
         ],
         "forgettingConditions": []
