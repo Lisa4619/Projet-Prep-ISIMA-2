@@ -46,7 +46,7 @@
             {
                 "reference": "distanceTo(45.766211, 3.113902)", 
                 "comparison": ">", 
-                parameter": "150"
+                "parameter": "150"
             }
         ],
         "forgettingConditions": []
