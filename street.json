@@ -1,6 +1,6 @@
 [
     {
-        "txt": "Vous êtes au parc de street-workout des cézeaux !",
+        "txt": "Vous êtes au parc de street des cézeaux !",
         "lang": "fr",
         "priority": 1,
         "requiredConditions": [
@@ -13,7 +13,7 @@
         "forgettingConditions": []
     },
     {
-        "txt": "Vous êtes à moins de 500 m du parc de street-workout des cézeaux ! !",
+        "txt": "Vous êtes à moins de 500 m du parc de street des cézeaux ! !",
         "lang": "fr",
         "priority": 1,
         "requiredConditions": [
@@ -26,7 +26,7 @@
         "forgettingConditions": []
     },
     {
-        "txt": "Vous n'êtes pas à proximité du parc de street-workout des cézeaux !",
+        "txt": "Vous n'êtes pas à proximité du parc de street des cézeaux !",
         "lang": "fr",
         "priority": 1,
         "requiredConditions": [
