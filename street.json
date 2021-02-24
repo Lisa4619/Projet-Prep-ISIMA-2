@@ -20,7 +20,7 @@
             {
                 "reference": "distanceTo(45.756148, 3.107706)", 
                 "comparison": "<", 
-                parameter": "500"
+                "parameter": "500"
             }
         ],
         "forgettingConditions": []
@@ -33,7 +33,7 @@
             {
                 "reference": "distanceTo(45.756148, 3.107706)", 
                 "comparison": ">", 
-                parameter": "500"
+                "parameter": "500"
             }
         ],
         "forgettingConditions": []
